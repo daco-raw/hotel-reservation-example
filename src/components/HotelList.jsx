@@ -16,7 +16,10 @@ export default function HotelList() {
     data: hotels,
     isLoading,
     error,
-  } = useQuery({ queryKey: ["hotels"], queryFn: fetchHotels });
+  } = useQuery({
+    queryKey: ["hotels"],
+    queryFn: fetchHotels,
+  });
 
   if (isLoading) {
     return <div>Loading ...</div>;
