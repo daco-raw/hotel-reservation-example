@@ -1,0 +1,46 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Hotel Ritz",
+      "description": "Hotel de Lujo",
+      "image": "/img/hotel1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hotel Gran Meliá",
+      "description": "Hotel de 5 estrellas",
+      "image": "/img/hotel2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hotel NH Collection",
+      "description": "Hotel de 4 estrellas",
+      "image": "/img/hotel3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Hotel Ibis",
+      "description": "Hotel de 3 estrellas",
+      "image": "/img/hotel4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Hostal La Posada",
+      "description": "Hotel económico",
+      "image": "/img/hotel5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Hotel Casa Magna Marriott",
+      "description": "Hotel de Lujo",
+      "image": "/img/hotel6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Hotel Four Seasons",
+      "description": "Hotel de 5 estrellas",
+      "image": "/img/hotel7.jpg"
+    }
+  ]
+}
